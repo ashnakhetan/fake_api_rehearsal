@@ -1,18 +1,21 @@
-[
-    {
-        "id": 1,
-        "sender": "user",
-        "timestep": 0,
-        "strategy": "Power",
-        "score": 7,
-        "content": "Hello!"
-    },
-    {
-        "id": 2,
-        "sender": "other",
-        "timestep": 0,
-        "strategy": "Power",
-        "score": 7,
-        "content": "yo"
-    }
-]
+{
+    "possible_responses": 
+    [
+        {
+            "id": 1,
+            "sender": "user",
+            "timestep": 0,
+            "strategy": "Power",
+            "score": 7,
+            "content": "Hello!"
+        },
+        {
+            "id": 2,
+            "sender": "other",
+            "timestep": 0,
+            "strategy": "Power",
+            "score": 7,
+            "content": "yo"
+        }
+    ]
+}
